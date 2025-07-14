@@ -10,15 +10,6 @@
 
 Senior Game Developer with over 7 years of experience in Unity3D and C#. Passionate about creating immersive gaming experiences and solving complex technical challenges.
 
-## 💼 Current Position
-
-Senior Game Developer at ZPlay (2025-Present)
-
-- Specialized in developing and optimizing puzzle casual games
-- Implementing innovative game mechanics and features
-- Collaborating with cross-functional teams
-- Focusing on performance optimization and user experience
-
 ## 🛠️ Tech Stack
 
 - Unity3D (95%) | C# (90%) | Game Design (85%) | AR/VR (80%)
